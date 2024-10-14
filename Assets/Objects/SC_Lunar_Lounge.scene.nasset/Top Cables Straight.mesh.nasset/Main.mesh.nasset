@@ -1,0 +1,186 @@
+{
+    "guid": "8b4ec17a-3d64-cdcc-5906-ea217b8185e8",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "91d514db-9624-d00b-332b-d1339d1516e8",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "b41ab747-3d51-11d9-ce30-c5d3e3892cbe",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Top Cables Straight Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "94f79f32-dc9a-0e9a-7997-36881515eac7",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Top Cables Straight Trim 2 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "6ec98cf5-72d2-ee2a-841d-c2be9ae781fe",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Top Cables Straight Trim 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "de502bcb-49f6-3614-9e73-7aa27616aa6b",
+                                "material_instance": "967b0f60-9b3e-e8ae-7985-75c668d852e1"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "de502bcb-49f6-3614-9e73-7aa27616aa6b"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "23d47260-b461-3e81-9584-22246fec12a8",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Top Cables Straight Trim 1 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "f1c48e91-a01e-cbb3-66f2-1a9c22d1795d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Top Cables Straight Trim 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "245ab720-343c-2fd4-cd1c-f5c94fc51fce",
+                                "material_instance": "06033bb0-0bda-d7c0-2ad4-356c66ad85c9"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "245ab720-343c-2fd4-cd1c-f5c94fc51fce"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "92bb7234-51da-13c7-c7b0-2802fb25f832",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Top Cables Straight Trim 3 Dark Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "65b989e0-6e70-e350-ae9c-635bbffb69f3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Top Cables Straight Trim 3 Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bace4627-4a90-c31d-d6c6-cecdb47feb34",
+                                "material_instance": "9fe9250e-6c23-c280-1a95-07d083d4b3e9"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "bace4627-4a90-c31d-d6c6-cecdb47feb34"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "8313a80a-f07a-0173-dce8-9fde850b2928",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Top Cables Straight Trim 3 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "1de57c67-4d17-8866-978a-9a453743b449",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Top Cables Straight Trim 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "fd0f948c-7472-b375-494c-a687ed42f8b3",
+                                "material_instance": "c8a43e74-533b-4153-4407-3783fe6a559e"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "fd0f948c-7472-b375-494c-a687ed42f8b3"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "8b4ec17a-3d64-cdcc-5906-ea217b8185e8"
+    },
+    "dependencies": [
+        "967b0f60-9b3e-e8ae-7985-75c668d852e1",
+        "de502bcb-49f6-3614-9e73-7aa27616aa6b",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87",
+        "06033bb0-0bda-d7c0-2ad4-356c66ad85c9",
+        "245ab720-343c-2fd4-cd1c-f5c94fc51fce",
+        "9fe9250e-6c23-c280-1a95-07d083d4b3e9",
+        "bace4627-4a90-c31d-d6c6-cecdb47feb34",
+        "c8a43e74-533b-4153-4407-3783fe6a559e",
+        "fd0f948c-7472-b375-494c-a687ed42f8b3"
+    ]
+}

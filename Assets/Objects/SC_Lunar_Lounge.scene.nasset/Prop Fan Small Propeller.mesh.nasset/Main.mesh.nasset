@@ -1,0 +1,110 @@
+{
+    "guid": "fba7a2f0-3f5a-46ca-7338-801e0cba6050",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "8a5a632e-db0e-398b-9203-723044c04c39",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "69054e50-0584-2c83-012a-327a34663eb5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Prop Fan Small Propeller Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "9788f1c2-ecd2-b43f-a910-74ab4a00591a",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Prop Fan Small Propeller Trim 1 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "126615e8-34ca-c1c8-c54d-2d1d07aa9131",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Prop Fan Small Propeller Trim 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "49009629-99e9-b19a-5aa8-7cfcf2ff3047",
+                                "material_instance": "06033bb0-0bda-d7c0-2ad4-356c66ad85c9"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "49009629-99e9-b19a-5aa8-7cfcf2ff3047"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "6aae8b0e-cc0d-f5d0-0d94-c6412ba563e3",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Prop Fan Small Propeller Trim 2 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "e82940ad-04ce-0100-2388-272d19d0b64b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Prop Fan Small Propeller Trim 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3e07fb1b-bae4-9330-ac39-1bb7de759d82",
+                                "material_instance": "967b0f60-9b3e-e8ae-7985-75c668d852e1"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "3e07fb1b-bae4-9330-ac39-1bb7de759d82"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "fba7a2f0-3f5a-46ca-7338-801e0cba6050"
+    },
+    "dependencies": [
+        "06033bb0-0bda-d7c0-2ad4-356c66ad85c9",
+        "49009629-99e9-b19a-5aa8-7cfcf2ff3047",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87",
+        "967b0f60-9b3e-e8ae-7985-75c668d852e1",
+        "3e07fb1b-bae4-9330-ac39-1bb7de759d82"
+    ]
+}

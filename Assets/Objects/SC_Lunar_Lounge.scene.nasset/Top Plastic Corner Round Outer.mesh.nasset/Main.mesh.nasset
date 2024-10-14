@@ -1,0 +1,148 @@
+{
+    "guid": "2518b8e6-19ed-dcec-3621-235821bbc3be",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "847b580a-bd5e-611a-f744-cb8b04439551",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "2bffb441-016a-7de4-fb10-94ef51a22148",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Top Plastic Corner Round Outer Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "f0086dfa-1c30-be99-75c1-9258c70a9266",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Top Plastic Corner Round Outer Trim 2 Floor Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "60f00ba8-08a5-a335-6205-30cf8f2611b1",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Top Plastic Corner Round Outer Trim 2 Floor"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "5741370a-c215-405b-f46b-548da3c92c82",
+                                "material_instance": "39e2f5d3-fd72-a303-4dfb-248dcad2c88c"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "5741370a-c215-405b-f46b-548da3c92c82"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "8895b7d8-d631-76c7-b454-04fd6e4ca09f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Top Plastic Corner Round Outer Trim 1 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "e9ff310b-ed40-5b58-fcca-5eff53ae6386",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Top Plastic Corner Round Outer Trim 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b496be1a-35e5-76a1-0656-576950213696",
+                                "material_instance": "06033bb0-0bda-d7c0-2ad4-356c66ad85c9"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "b496be1a-35e5-76a1-0656-576950213696"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "787bc298-b387-1d5d-3bb2-519da5d0d699",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Top Plastic Corner Round Outer Trim 2 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "4e27a8c1-3bc9-cfca-9a2d-a73d4f3b3685",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Top Plastic Corner Round Outer Trim 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bb040de1-6f54-d069-d352-6f4b58fc1bee",
+                                "material_instance": "967b0f60-9b3e-e8ae-7985-75c668d852e1"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "bb040de1-6f54-d069-d352-6f4b58fc1bee"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "2518b8e6-19ed-dcec-3621-235821bbc3be"
+    },
+    "dependencies": [
+        "39e2f5d3-fd72-a303-4dfb-248dcad2c88c",
+        "5741370a-c215-405b-f46b-548da3c92c82",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87",
+        "06033bb0-0bda-d7c0-2ad4-356c66ad85c9",
+        "b496be1a-35e5-76a1-0656-576950213696",
+        "967b0f60-9b3e-e8ae-7985-75c668d852e1",
+        "bb040de1-6f54-d069-d352-6f4b58fc1bee"
+    ]
+}

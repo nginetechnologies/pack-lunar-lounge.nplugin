@@ -1,0 +1,148 @@
+{
+    "guid": "4e75b476-0a04-a8cd-3d9d-514a515a95eb",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "b6bdcf67-bcac-f7a0-a9ec-bcf15236d1fe",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "fcf23997-1418-83fd-11e6-b86871e298d6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Top Astra Straight Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "fc10a936-5aa7-7d32-0b14-472445d0a381",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Top Astra Straight Trim 3 Dark Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "80e183a8-33cd-1f4c-ef92-ee95a891b0bb",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Top Astra Straight Trim 3 Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "1b6a539f-9caf-e5fa-20a0-98bdc3b1e0e0",
+                                "material_instance": "9fe9250e-6c23-c280-1a95-07d083d4b3e9"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "1b6a539f-9caf-e5fa-20a0-98bdc3b1e0e0"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "91232e04-61ac-dcf8-3ec3-a6d634e059af",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Top Astra Straight Trim 3 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "759318f6-6ddf-4662-defc-ca88d532d8bf",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Top Astra Straight Trim 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a1cc567a-10b6-d0f1-375c-3b734b009d13",
+                                "material_instance": "c8a43e74-533b-4153-4407-3783fe6a559e"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "a1cc567a-10b6-d0f1-375c-3b734b009d13"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "d2335ee7-5a0e-6f2a-9a88-6e99c293df80",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Top Astra Straight Decal White Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "1ebd96d7-f68c-25ec-16f7-4645e769afd3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Top Astra Straight Decal White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "6e6339b7-aed2-62ae-e366-9fbf5824df8a",
+                                "material_instance": "6b721e5b-e577-b411-50b2-bdd1f8f6aa5e"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "6e6339b7-aed2-62ae-e366-9fbf5824df8a"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "4e75b476-0a04-a8cd-3d9d-514a515a95eb"
+    },
+    "dependencies": [
+        "9fe9250e-6c23-c280-1a95-07d083d4b3e9",
+        "1b6a539f-9caf-e5fa-20a0-98bdc3b1e0e0",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87",
+        "c8a43e74-533b-4153-4407-3783fe6a559e",
+        "a1cc567a-10b6-d0f1-375c-3b734b009d13",
+        "6b721e5b-e577-b411-50b2-bdd1f8f6aa5e",
+        "6e6339b7-aed2-62ae-e366-9fbf5824df8a"
+    ]
+}

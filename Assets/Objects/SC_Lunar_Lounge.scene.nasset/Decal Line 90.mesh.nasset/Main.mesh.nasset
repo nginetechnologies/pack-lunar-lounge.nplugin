@@ -1,0 +1,72 @@
+{
+    "guid": "80d49ba5-dd33-633b-98e7-cefcdaa6cdbe",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e5f34fa1-293a-19fa-8928-c8ccb3e9b757",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "22631c94-e2cf-6450-6e85-cc9078d44e2e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Decal Line 90 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "b6a635cc-5db9-b02b-7323-d5056a0b8042",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Decal Line 90 Decal Line Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "1977f620-e442-a644-2ed6-adc873800487",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Decal Line 90 Decal Line"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ca77ed04-da84-9773-376d-7af1f5034104",
+                                "material_instance": "566e5385-fcce-1f55-cf37-c42571042e88"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "ca77ed04-da84-9773-376d-7af1f5034104"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "80d49ba5-dd33-633b-98e7-cefcdaa6cdbe"
+    },
+    "dependencies": [
+        "566e5385-fcce-1f55-cf37-c42571042e88",
+        "ca77ed04-da84-9773-376d-7af1f5034104",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+    ]
+}

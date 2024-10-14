@@ -1,0 +1,224 @@
+{
+    "guid": "328b46c1-45d2-6ae8-244b-5efea3385773",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "4955a741-348e-f728-2376-5d4098143852",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "e53c842c-29fb-eed5-ba17-e61dcb171042",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Astra Corner Square Inner Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "c8d169b4-e2a0-9171-c3e9-7247a961e5e9",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wall Astra Corner Square Inner Trim 3 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "6b962ec5-e5fc-cc0c-00e6-af7a4be572ae",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wall Astra Corner Square Inner Trim 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f1bcf3ad-a401-028d-bd43-4b7a4c944d25",
+                                "material_instance": "c8a43e74-533b-4153-4407-3783fe6a559e"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "f1bcf3ad-a401-028d-bd43-4b7a4c944d25"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "1d7266c4-70d5-0de2-99e5-3cbc6356440d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wall Astra Corner Square Inner Trim 2 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "c92f77e0-8c9d-6d66-f899-b6733c41fe08",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wall Astra Corner Square Inner Trim 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ecb885a9-a1ec-971f-5b5a-5de252001cd0",
+                                "material_instance": "967b0f60-9b3e-e8ae-7985-75c668d852e1"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "ecb885a9-a1ec-971f-5b5a-5de252001cd0"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "bffbc1d5-2203-ae19-eadf-89ed43c928e8",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wall Astra Corner Square Inner Trim 1 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "67d4cc87-4044-963a-b067-b2498765e0cb",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wall Astra Corner Square Inner Trim 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "1661723d-fe6a-2c72-ac89-b4b466c7edb6",
+                                "material_instance": "06033bb0-0bda-d7c0-2ad4-356c66ad85c9"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "1661723d-fe6a-2c72-ac89-b4b466c7edb6"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "2de1036b-c626-69f8-0102-b2d49b10826d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wall Astra Corner Square Inner Decal White Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "70ce1fe6-6b5e-ebb5-5b7f-6af02b5640eb",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wall Astra Corner Square Inner Decal White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f099a12a-4d23-0f57-ea4c-0448060bff97",
+                                "material_instance": "6b721e5b-e577-b411-50b2-bdd1f8f6aa5e"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "f099a12a-4d23-0f57-ea4c-0448060bff97"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "c2f3d566-aa25-57ce-07bb-8f2dfb8e6c74",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wall Astra Corner Square Inner Trim 3 Dark Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "3f50a77b-acfc-7fa1-750f-5f3f89667538",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wall Astra Corner Square Inner Trim 3 Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "5d084875-68ec-5bb3-e331-22fc35b9868a",
+                                "material_instance": "9fe9250e-6c23-c280-1a95-07d083d4b3e9"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "5d084875-68ec-5bb3-e331-22fc35b9868a"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "328b46c1-45d2-6ae8-244b-5efea3385773"
+    },
+    "dependencies": [
+        "c8a43e74-533b-4153-4407-3783fe6a559e",
+        "f1bcf3ad-a401-028d-bd43-4b7a4c944d25",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87",
+        "967b0f60-9b3e-e8ae-7985-75c668d852e1",
+        "ecb885a9-a1ec-971f-5b5a-5de252001cd0",
+        "06033bb0-0bda-d7c0-2ad4-356c66ad85c9",
+        "1661723d-fe6a-2c72-ac89-b4b466c7edb6",
+        "6b721e5b-e577-b411-50b2-bdd1f8f6aa5e",
+        "f099a12a-4d23-0f57-ea4c-0448060bff97",
+        "9fe9250e-6c23-c280-1a95-07d083d4b3e9",
+        "5d084875-68ec-5bb3-e331-22fc35b9868a"
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "guid": "b305afd3-471d-a5f2-a8e0-f3d6ba0220d1",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "42cc5136-b69c-3fbb-25ca-02e5eb3a7c96",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "638120b1-b83e-1ec0-5465-bc60d2d0d88e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Top Astra Corner Round Inner Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "96c96a2d-6105-620c-0ff0-aafa994b416d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Top Astra Corner Round Inner Trim 3 Dark Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "1efcf0f0-c82b-8ec9-d234-52a790c96ca2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Top Astra Corner Round Inner Trim 3 Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "29442d04-e11c-af6e-ea2d-9b89ec6398da",
+                                "material_instance": "9fe9250e-6c23-c280-1a95-07d083d4b3e9"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "29442d04-e11c-af6e-ea2d-9b89ec6398da"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "1d3269fd-a592-8bc4-b423-d3f9d033c0c6",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Top Astra Corner Round Inner Trim 3 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "5a91b9a9-9ac6-bedc-21e1-6f15fa136090",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Top Astra Corner Round Inner Trim 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "22a1fa2f-703a-90a4-e86a-6f9caf694056",
+                                "material_instance": "c8a43e74-533b-4153-4407-3783fe6a559e"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "22a1fa2f-703a-90a4-e86a-6f9caf694056"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "d9d486cf-0af2-2da3-63a8-3ea864e9ed5b",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Top Astra Corner Round Inner Decal White Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "cfbd527e-b4a2-48ac-8996-ffe1e8f76f75",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Top Astra Corner Round Inner Decal White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3f613877-1c2b-b91d-2873-786b58423b9c",
+                                "material_instance": "6b721e5b-e577-b411-50b2-bdd1f8f6aa5e"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "3f613877-1c2b-b91d-2873-786b58423b9c"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "b305afd3-471d-a5f2-a8e0-f3d6ba0220d1"
+    },
+    "dependencies": [
+        "9fe9250e-6c23-c280-1a95-07d083d4b3e9",
+        "29442d04-e11c-af6e-ea2d-9b89ec6398da",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87",
+        "c8a43e74-533b-4153-4407-3783fe6a559e",
+        "22a1fa2f-703a-90a4-e86a-6f9caf694056",
+        "6b721e5b-e577-b411-50b2-bdd1f8f6aa5e",
+        "3f613877-1c2b-b91d-2873-786b58423b9c"
+    ]
+}

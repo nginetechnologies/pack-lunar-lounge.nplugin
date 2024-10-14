@@ -1,0 +1,110 @@
+{
+    "guid": "f1b53815-e925-018a-91e3-76e0b2cb3a1b",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "25bee915-18f9-6a23-1dd0-de796b8412d8",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "34758f3b-4495-807b-82ed-e60ef0425434",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bottom Metal Corner Square Outer 1 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "670bdbb2-1952-ffa4-5f20-9d72b561964b",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bottom Metal Corner Square Outer 1 Trim 2 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "2193cbcf-144f-c039-af71-0a76945d2114",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bottom Metal Corner Square Outer 1 Trim 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "40196646-92f0-94d7-698b-d4925f1ca689",
+                                "material_instance": "967b0f60-9b3e-e8ae-7985-75c668d852e1"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "40196646-92f0-94d7-698b-d4925f1ca689"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "794be5f7-1788-c3aa-f569-9e3354f98cf4",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bottom Metal Corner Square Outer 1 Trim 1 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "5b5e248f-cc0c-a008-1e04-b0b16c9b2976",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bottom Metal Corner Square Outer 1 Trim 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "1aa7e126-40be-354d-91c4-7bffc191f7d1",
+                                "material_instance": "06033bb0-0bda-d7c0-2ad4-356c66ad85c9"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "1aa7e126-40be-354d-91c4-7bffc191f7d1"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "f1b53815-e925-018a-91e3-76e0b2cb3a1b"
+    },
+    "dependencies": [
+        "967b0f60-9b3e-e8ae-7985-75c668d852e1",
+        "40196646-92f0-94d7-698b-d4925f1ca689",
+        "dc7e2094-148c-438d-9b97-b6586e6e5f87",
+        "06033bb0-0bda-d7c0-2ad4-356c66ad85c9",
+        "1aa7e126-40be-354d-91c4-7bffc191f7d1"
+    ]
+}

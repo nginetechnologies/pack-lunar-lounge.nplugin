@@ -2454,6 +2454,383 @@
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "975aa576-4128-8fcd-4e54-115376335602"
             }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d4-7ba3-2d79-5f11e546ebb0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ammo"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d4-7c88-5147-f64b44f83b20"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d5-7d96-d903-c5e0911238eb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ammo Closed"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d5-7882-f858-81649a2c1503"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d5-7e9d-bbb1-9bfc9b482e2c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ammo Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d5-7e9d-1a2d-0fbed0d22fae"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d5-7aa5-24dc-b393e0bcc09c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Barrel 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d5-7ba0-f5c1-e9c8a112c7b3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d5-7a99-3af5-accc3dfe202b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Barrel 2 Closed"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d5-78ad-4c1d-7252621abd3e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d5-7c8e-d1da-acb188b6a685",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Barrel 2 Open"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d5-729d-1457-1a45706496b1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d5-73b3-ef93-8d62dac1c942",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chair"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d5-7b9c-d0fd-1f0e420e27fb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d5-74bd-6f17-41cf7f6bf167",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chest Lid"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d5-73b9-2357-35b4e3a331c0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d5-7e92-d9f9-993bddc9642c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chest"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d5-7f92-c4a7-74647237eaad"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d5-70bb-b207-9d95429a8f6d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d6-77a9-45cd-303c5dade587"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d6-7caa-f85d-7a77ed057ef0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d6-758f-1bb9-a3133e455c70"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d6-7eb9-c437-0a7f26bdb8aa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Tarp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d6-7bbd-7908-f728bed39b04"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d6-7ba2-d2f3-545ca33b0f63",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Tarp Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d6-7fbb-cd82-1362431a415d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d6-70ac-198f-78defd356483",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Desk L"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d6-7981-2d4d-f7268a90c5cd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d6-729a-084d-00606b2f9196",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Desk Medium"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d6-7c93-1630-29e7965d57de"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d6-7bb1-04cb-2890b46a8bde",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Desk Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d6-7e81-63a0-ac609c4aca3d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d6-7c9b-d271-93f02b22328f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grenade"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d6-75a9-c05a-ae95f2f36aed"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d6-7a91-d314-ef146012b28a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Health Pack"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d6-7c8e-15da-8be1956a2f07"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d6-70b1-29fd-eb663608980f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Health Pack Tube"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d7-7581-3542-0713df715d1f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d7-7d8c-4019-294561404874",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "KeyCard"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d7-7591-8fe2-04c3ab6bf25a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d7-7090-fef1-fe85faaa1b9a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Locker"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d7-7988-2156-2da2de3abc5a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d7-7091-48f9-3353b2a6a3e9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mine"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d7-7bb5-0fc7-e689e2f276dd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d7-7d95-5f03-31d7d0567985",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mug"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d7-7e86-92ae-00f4875e93d8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d7-7e8a-c367-adcebb440f36",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Satellite Dish"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d7-7d81-a16b-19da9bcded8e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d7-7bba-a772-97784fe2b44e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Shelves Thin Short"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d7-7788-6104-94ac965bea7c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d7-7992-be5b-a45aee8e302f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Shelves Thin Tall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d7-7db6-1910-fdf43a7b5cda"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d7-7595-3f0e-dd004cc79eb2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Shelves Wide Short"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d7-7fb0-ff8a-0c1177797e56"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d7-7ba6-d55a-b2d604e9b38e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Shelves Wide Tall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d7-76ab-80ff-541d058879bb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7d8-62d7-7789-0715-0cc1bf8c8e8d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Syringe"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7d8-62d7-7da9-ea13-2ab041341a20"
+            }
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2647,6 +3024,35 @@
         "eab70414-d8a4-0618-6296-5eacf9c1c06c",
         "911e8c73-8f6d-3332-074f-a236000b9f1c",
         "1b96d4d7-fe0c-c839-c36c-49e18d9cf14f",
-        "975aa576-4128-8fcd-4e54-115376335602"
+        "975aa576-4128-8fcd-4e54-115376335602",
+        "0193d7d8-62d4-7c88-5147-f64b44f83b20",
+        "0193d7d8-62d5-7882-f858-81649a2c1503",
+        "0193d7d8-62d5-7e9d-1a2d-0fbed0d22fae",
+        "0193d7d8-62d5-7ba0-f5c1-e9c8a112c7b3",
+        "0193d7d8-62d5-78ad-4c1d-7252621abd3e",
+        "0193d7d8-62d5-729d-1457-1a45706496b1",
+        "0193d7d8-62d5-7b9c-d0fd-1f0e420e27fb",
+        "0193d7d8-62d5-73b9-2357-35b4e3a331c0",
+        "0193d7d8-62d5-7f92-c4a7-74647237eaad",
+        "0193d7d8-62d6-77a9-45cd-303c5dade587",
+        "0193d7d8-62d6-758f-1bb9-a3133e455c70",
+        "0193d7d8-62d6-7bbd-7908-f728bed39b04",
+        "0193d7d8-62d6-7fbb-cd82-1362431a415d",
+        "0193d7d8-62d6-7981-2d4d-f7268a90c5cd",
+        "0193d7d8-62d6-7c93-1630-29e7965d57de",
+        "0193d7d8-62d6-7e81-63a0-ac609c4aca3d",
+        "0193d7d8-62d6-75a9-c05a-ae95f2f36aed",
+        "0193d7d8-62d6-7c8e-15da-8be1956a2f07",
+        "0193d7d8-62d7-7581-3542-0713df715d1f",
+        "0193d7d8-62d7-7591-8fe2-04c3ab6bf25a",
+        "0193d7d8-62d7-7988-2156-2da2de3abc5a",
+        "0193d7d8-62d7-7bb5-0fc7-e689e2f276dd",
+        "0193d7d8-62d7-7e86-92ae-00f4875e93d8",
+        "0193d7d8-62d7-7d81-a16b-19da9bcded8e",
+        "0193d7d8-62d7-7788-6104-94ac965bea7c",
+        "0193d7d8-62d7-7db6-1910-fdf43a7b5cda",
+        "0193d7d8-62d7-7fb0-ff8a-0c1177797e56",
+        "0193d7d8-62d7-76ab-80ff-541d058879bb",
+        "0193d7d8-62d7-7da9-ea13-2ab041341a20"
     ]
 }
